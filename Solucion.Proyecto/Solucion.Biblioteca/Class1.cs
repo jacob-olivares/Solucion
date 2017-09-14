@@ -8,5 +8,6 @@ namespace Solucion.Biblioteca
 {
     public class Class1
     {
+        string asd;
     }
 }
